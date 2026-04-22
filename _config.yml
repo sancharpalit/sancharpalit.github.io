@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "pphoto.png"
-  name             : "Your Sidebar Name"
+  name             : "Sanchar Palit"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Researcher in Computer Vision, Image Restoration, 
 Video Frame Interpolation, Diffusion Models, Event-based Vision, 
 Bayesian Learning, and Continual Learning."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Indian Institute of Technology Bombay"
   uri              : # URL
   email            : "sanchar.palit5@gmail.com" 
 
