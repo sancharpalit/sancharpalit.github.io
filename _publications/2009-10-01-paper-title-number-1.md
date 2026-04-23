@@ -3,12 +3,12 @@ title: "Discontinuity-Preserving Image Super-Resolution using MRF-Regularized On
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'A single-step diffusion-based image super-resolution framework with MRF prior regularization for efficient, sharp, and fast image super-resolution.'
 date: 2026-04-21
 venue: 'Transactions on Machine Learning Research'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://openreview.net/pdf?id=CLrWXyyL5c'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Sanchar Palit, Subhasis Chaudhuri, and Biplab Banerjee, "Discontinuity-Preserving Image Super-Resolution using MRF-Regularized One-Step Diffusion", accepted at Transactions on Machine Learning Research (TMLR), 2026'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
