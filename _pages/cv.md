@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan - June 2024: Computer Vision Intern
+  * Samsung Research Institute Bangalore
+  % * Duties includes: Updates and improvements to template
+  % * Supervisor: The Users
 
 * Fall 2015: Research Assistant
   * GitHub University
