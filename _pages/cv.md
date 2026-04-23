@@ -23,10 +23,8 @@ Work experience
 * May 2019 - July 2020: Digital Design Engineer
   * Texas Instruments India
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2018 - December 2018: Digital Design Intern
+  * Texas Instruments India
   
 Skills
 ======
