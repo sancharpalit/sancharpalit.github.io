@@ -19,13 +19,9 @@ Work experience
 ======
 * Jan - June 2024: Computer Vision Intern
   * Samsung Research Institute Bangalore
-  % * Duties includes: Updates and improvements to template
-  % * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2019 - July 2020: Digital Design Engineer
+  * Texas Instruments India
 
 * Summer 2015: Research Assistant
   * GitHub University
