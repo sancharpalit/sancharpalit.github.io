@@ -3,7 +3,7 @@ title: "Local-global context-aware and structure-preserving image super-resoluti
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'A multi-step diffusion-based image super-resolution framework that integrates local-global context-aware attention and distribution alignment for perceptually faithful image reconstruction.'
 date: 2026-03-25
 venue: 'Neurocomputing'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
