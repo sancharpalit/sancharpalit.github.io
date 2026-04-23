@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Vision, IIT Bombay, 2026 (expected)
+* M.Tech. in Visual Information Processing and Embedded Systems, IIT Kharagpur, 2017
+* B.Tech. in Electronics and Communication Engineering, Jalpaiguri Govt. Engg. College, 2012
 
 Work experience
 ======
