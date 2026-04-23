@@ -26,9 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Sanchar Palit"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Researcher in Computer Vision, Image Restoration, 
-Video Frame Interpolation, Diffusion Models, Event-based Vision, 
-Bayesian Learning, and Continual Learning."
+  bio              : "Ph.D. Research Scholar in 3D Computer Vision, Low-Level Vision—particularly Image Super-Resolution and 
+Video Frame Interpolation, Stochastic Modeling in Computer Vision, Event-based Vision, and Bayesian Learning."
   location         : "Mumbai"
   employer         : "IIT Bombay"
   uri              : # URL
