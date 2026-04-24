@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Vision, IIT Bombay, 2026 (expected)
-* M.Tech. in Visual Information Processing and Embedded Systems, IIT Kharagpur, 2017
-* B.Tech. in Electronics and Communication Engineering, Jalpaiguri Govt. Engg. College, 2012
+* M.Tech. in Visual Information Processing and Embedded Systems, IIT Kharagpur, 2019
+* B.Tech. in Electronics and Communication Engineering, Jalpaiguri Govt. Engg. College, 2016
 
 Work experience
 ======
@@ -28,12 +28,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Pytorch
+* C++
 
 Publications
 ======
