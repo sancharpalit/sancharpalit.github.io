@@ -7,7 +7,7 @@ excerpt: 'A continual learning framework for single-image 3D reconstruction that
 date: 2024-02-17
 venue: 'Proceedings of the Fifteenth Indian Conference on Computer Vision Graphics and Image Processing'
 paperurl: 'https://sancharpalit.github.io/files/paper4.pdf'
-citation: 'Sanchar Palit, Subhasis Chaudhuri, and Biplab Banerjee, "Variational Distribution and Experience Replay for 3D Reconstruction in a Continual Learning Framework", ICVGIP, 2024.'
+citation: 'Sanchar Palit and Sandika Biswas, "Variational Distribution and Experience Replay for 3D Reconstruction in a Continual Learning Framework", ICVGIP, 2024.'
 ---
 <p style="color:red;"><strong>Best Paper Award — ICVGIP 2024</strong></p>
 
