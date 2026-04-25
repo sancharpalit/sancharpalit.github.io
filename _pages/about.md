@@ -11,4 +11,6 @@ I am a Ph.D. research scholar at IIT Bombay, working in 3D Computer Vision, Imag
 My research focuses on low-level vision, generative modeling, and efficient learning frameworks for practical deployment.
 
 I hold a Master’s degree in Visual Information Processing and Embedded Systems Engineering from IIT Kharagpur.
+
+<br><br><br><br><br>
  
