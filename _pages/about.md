@@ -12,5 +12,5 @@ My research focuses on low-level vision, generative modeling, and efficient lear
 
 I hold a Master’s degree in Visual Information Processing and Embedded Systems Engineering from IIT Kharagpur.
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
  
