@@ -23,7 +23,7 @@ repository               : "sancharpalit/sancharpalit.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_italy.jpg"
+  avatar           : "photo.jpg"
   name             : "Sanchar Palit"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Research Scholar in 3D Computer Vision, Low-Level Vision—particularly Image Super-Resolution and 
