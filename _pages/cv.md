@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computer Vision, IIT Bombay, 2026 (expected)
 * M.Tech. in Visual Information Processing and Embedded Systems, IIT Kharagpur, 2019
-* B.Tech. in Electronics and Communication Engineering, Jalpaiguri Govt. Engg. College, 2016
+* B.Tech. in Electronics and Communication Engineering, Jalpaiguri Government Engineering College, 2016
 
 Work experience
 ======
