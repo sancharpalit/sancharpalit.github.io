@@ -28,11 +28,13 @@ Work experience
   
 Skills
 ======
-* Python      * Java
-* Pytorch     * SystemVerilog
-* C           * Verilog
+* Python      
+* Pytorch     
+* C           
 * C++
-
+* Verilog
+* SystemVerilog
+* Java
 
 Publications
 ======
